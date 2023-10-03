@@ -15,3 +15,7 @@ test-output/
 
 *.releaseBackup
 release.properties
+
+**/red4j-data/
+**/cp.txt
+**.java.orig
